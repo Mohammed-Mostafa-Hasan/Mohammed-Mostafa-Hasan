@@ -1,9 +1,7 @@
 ## Hello World, I'm Mohammed Mostafa 👋
 ### A Data Scientist specialized at Mechine Learning
 #### language and tools
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning Time series analysis and Computer vision
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 * 💬 Ask me about data science field & ML specially 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohammed-mostafa-hasan-387382192/?lipi=urn%3Ali%3Apage%3Aprofile_common_profile_index%3B3a4981ae-5fd6-4062-bd07-98b526cce657)
