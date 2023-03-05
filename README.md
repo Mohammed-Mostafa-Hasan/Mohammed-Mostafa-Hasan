@@ -17,9 +17,9 @@
  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png"
          width = 50, hight = 50>
  <img src = "https://ggplot2.tidyverse.org/logo.png"
-         width = 60, hight = 60>
+         width = 50, hight = 50>
    <img src = "https://thinkr.fr/wp-content/uploads/tidyverse-logo-1.png"
-         width = 150, hight = 150>
+         width = 120, hight = 120>
   <img src ="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"
          width = 150, hight = 150>
     <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png?20170429160244"
@@ -27,6 +27,4 @@
    <img src ="https://rstudio.com/assets/img/og/shiny-og-fb.jpg"
          width = 100, hight = 100>
 </div>
-https://rstudio.com/assets/img/og/shiny-og-fb.jpg
-
 
