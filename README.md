@@ -8,4 +8,5 @@
 ### language and tools:
 <div>
   <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png?20110111022945" width = 100 hight = 100>
+  <img src = "https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-700x394.png" width = 100, hight = 100>
 </div>
