@@ -1,4 +1,4 @@
-## Hello World, I'm Mohammed Mostafa 👋
+## Hello World, I'm Mohammed 👋
 ### A Data Scientist specialized at Mechine Learning
 
 - 🌱 I’m currently learning Time series analysis and Computer vision
