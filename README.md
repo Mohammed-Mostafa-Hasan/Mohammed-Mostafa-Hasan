@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Time series analysis and Computer vision
 * 💬 Ask me about data science field & ML specially 
-- 📫 You can reach me: [Linkedin](linkedin.com/in/mohammed-mostafa-hassan-387382192)
+- 📫 You can reach me: [Linkedin](https://www.linkedin.com/in/mohammed-mostafa-hassan-387382192?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQSO4cSIkT22OtqBeZ6JiNA%3D%3D)
 
 ### language and tools:
 <div>
